@@ -96,7 +96,13 @@ body,
     height: 25px;
 }
 
-.icon {
+.decode-icon {
     height: 25px;
     width: 45px;
+}
+
+.delete-icon {
+    margin-left: 10px;
+    height: 25px;
+    width: 25px;
 }
