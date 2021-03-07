@@ -29,6 +29,7 @@ body, html {
     z-index: 99;
     background: #fff;
     border-bottom: 1px dashed #aaa;
+    margin-bottom: 0.5rem !important;
 }
 
 .level-right {
@@ -46,6 +47,7 @@ body, html {
 }
 
 .list {
+    margin-left: 20px;
     max-height: 540px;
     overflow-y: scroll;
 }
@@ -61,8 +63,9 @@ body,
     margin-bottom: 5px;
 }
 
-.field-label .label {
-    width: 200px;
+.field-label .label,
+.field-label .input {
+    width: 180px;
     line-height: 27px;
     overflow: hidden;
 }
@@ -88,7 +91,7 @@ body,
 }
 
 .search-input:focus {
-    width: 260px;
+    width: 360px;
 }
 
 .param-value {
@@ -96,12 +99,7 @@ body,
     height: 25px;
 }
 
-.decode-icon {
-    height: 25px;
-    width: 45px;
-}
-
-.delete-icon {
+.delete-icon, .add-icon {
     margin-left: 10px;
     height: 25px;
     width: 25px;

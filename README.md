@@ -9,3 +9,4 @@ Url Parameters Parse for Google Chrome
 - Filter parameters key
 - Decode / Encode parameters value
 - Delete parameters
+- Add parameters
