@@ -1,4 +1,8 @@
-### ChromeUrlParse
+### Google Chrome Extension
+
+https://chrome.google.com/webstore/detail/nmfkjcpkpnjpaccelmlpaafdckbhajee
+
+### Chrome Url Parse
 
 Url Parameters Parse for Google Chrome
 
